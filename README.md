@@ -1,4 +1,5 @@
 # Desappstre-Mediator-Pattern
+![](https://img.shields.io/badge/swift-4.0-orange.svg)
 
 Código que acompaña al artículo sobre el patrón de diseño **Mediator** publicado en [Desappstre](http://desappstre.com)
 
