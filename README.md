@@ -5,8 +5,8 @@ Código que acompaña al artículo sobre el patrón de diseño **Mediator** publ
 
 La carpeta `Source Code` contiene el código fuente divido en dos carpetas:
 
-* Mediator: Contiene la implementación del mediador
-* Elements: Son los objetos que necesitan comunicarse de una forma óptima
+* **Mediator**: Contiene la implementación del mediador
+* **Elements**: Son los objetos que necesitan comunicarse de una forma óptima
 
 ## Contacto
 
